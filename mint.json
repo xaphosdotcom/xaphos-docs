@@ -25,6 +25,10 @@
     "name": "Dashboard",
     "url": "https://dashboard.xaphos.com"
   },
+  "modeToggle": {
+    "default": "light",
+    "isHidden": false
+  },
   "tabs": [
     {
       "name": "API Reference",
